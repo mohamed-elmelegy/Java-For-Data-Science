@@ -1,0 +1,32 @@
+id,name,population,countrycode
+1,Cairo,19372000,EG
+2,Alexandria,4870000,EG
+3,Giza,3021542,EG
+4,Ismailia,293184,EG
+5,Damietta,206664,EG
+6,Catalonia,649404,ES
+7,Madrid,574654,ES
+8,Valencia,416065,ES
+9,Andalusia,406807,ES
+10,Galicia,379925,ES
+11,London,10979000,GB
+12,Birmingham,2897303,GB
+13,Manchester,2705000,GB
+14,Leeds,1901934,GB
+15,Newcastle,1650000,GB
+16,Vienna,1840573,AT
+17,Graz,289440,AT
+18,Linz,204846,AT
+19,Salzburg,154076,AT
+20,Innsbruck,132493,AT
+21,Klagenfurt,101403,AT
+22,Wiener Neustadt,82762,AT
+23,Villach,61879,AT
+24,Sao Paulo,22046000,BR
+25,Rio de Janeiro,12272000,BR
+26,Minas Gerais,5159000,BR
+27,Distrito Federal,3015268,BR
+28,Bahia,2921087,BR
+29,Ceara,2452185,BR
+30,Parana,1879355,BR
+31,Brasilia,1802014,BR
